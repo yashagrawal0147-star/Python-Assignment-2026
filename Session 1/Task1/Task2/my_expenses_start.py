@@ -1,4 +1,8 @@
 """
+                                        TASK 2
+"""
+
+"""
 <p>Add a code cell to 'my_expense_start.ipynb' that stores 5 of your own real expenses from last week (for example food, bus fare, recharge) as plain numbers, prints each with a label, and prints the total using +. Constraint: Use only numbers, + and print(); do not use lists or loops.</p>
 
 """

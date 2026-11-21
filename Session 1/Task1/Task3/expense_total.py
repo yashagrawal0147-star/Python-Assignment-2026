@@ -1,4 +1,10 @@
 """
+                                        TASK 3
+"""
+
+
+
+"""
 <p>Create a script named 'expense_total.py' with the same 5 expenses and the same total, run it from the Anaconda Prompt with `python expense_total.py`, and save a screenshot of the output as 'run_proof.png'. Then run Restart & Run All in the notebook and check that both totals match. Hint: Use `cd` to move into your folder before running the script.</p>
 
 """
